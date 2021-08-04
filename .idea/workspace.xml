@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2b5295-c723-46cf-8ac4-eddc71f22082" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css_primeiro_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/primeiro_css.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,11 @@
             <path>
               <item name="Primeiro_Repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Primeiro_Repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Primeiro_Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Primeiro_Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
